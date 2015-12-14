@@ -1,8 +1,8 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       a boy from Pakistan
+email:       me@bilaal.xyz
+author:      Muhammad Bilal
+description: "A freelance writer and a Pakistani blogger."
 baseurl:     ""
 url:         "http://pixyll.com"
 date_format: "%b %-d, %Y"
@@ -32,7 +32,7 @@ facebook_comments_number: 10
 github_username:
 bitbucket_username:
 stackoverflow_id:
-twitter_username:
+twitter_username: @MohammadBilaaal
 google_plus_id:
 linkedin_username:
 angellist_username:
@@ -45,8 +45,8 @@ flattr_button:
 show_sharing_icons: false
 share_text: 'Share this post!'
 # Change to 'true' to enable individual icons
-share_facebook: false
-share_twitter: false
+share_facebook: true
+share_twitter: true
 share_googleplus: false
 share_linkedin: false
 share_digg: false
